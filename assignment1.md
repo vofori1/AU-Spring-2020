@@ -3,7 +3,7 @@
 
 ## Idea 1: Racial Disparities within the Health Care Pose Risks for Black Mothers
 ### What do Beyonce and Serena Williams both have in common? Other than being successful media phenomenons, they both have experienced life-threatening complications in their pregnancies. Similarly to them, other black women in the U.S. report facing racial biases within the health care system that contributed to alarming rates of pregnancy-related deaths. According to an American College of Obstetricians and Gynecologists study, it's reported that black women are three to four times more likely to die from pregnancy-related causes than white women. Communication gaps, stereotyping, and negligence from health care providers are some contributors that have lead to differential treatment between black and white woman. Due to this clear data-driven disparity, this topic is significant and relevant to shed light on.
-### [Related Published Story] (https://www.cdc.gov/media/releases/2019/p0905-racial-ethnic-disparities-pregnancy-deaths.html)
+### [Related Published Story](https://www.cdc.gov/media/releases/2019/p0905-racial-ethnic-disparities-pregnancy-deaths.html)
 
 ## Critique 1:
 ### Objective: Clarity and accuracy
@@ -32,7 +32,8 @@
 
 ## Idea 2: Diversity in Corporte America Still Remain Scares According to Black People
 ### For those seeking job employment, it's often desired to emerge in workforces that's both diverse in office culture and ideologies, as well as inclusive in identities and demographics. Unfortuntely, this is still not the reality that many black americans face entering the job market. According to a study conducted by the National Opinion Research Center, only 8% of people in corporate positions are black. Consquently, black millennials are more likely to drop out of the corporate world altogether. The study also found that black americans represent less than 1% (0.8 percent) of Fortune 500 CEOs and only 3.2% of executives and senior manager-level employees are black. Due to this clear data-driven disparity, this topic is significant and relevant to shed light on.
-### [Related Published Story] (https://www.nbcnews.com/news/nbcblk/blacks-corporate-america-still-largely-invisible-study-finds-n1098981)
+
+### [Related Published Story](https://www.nbcnews.com/news/nbcblk/blacks-corporate-america-still-largely-invisible-study-finds-n1098981)
 
 ## Critique 2:
 ### Objective: Clarity and accuracy
