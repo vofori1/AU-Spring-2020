@@ -17,7 +17,7 @@
 
 * 5
 * The authors did site all sources, whether the data came from a previous report or study.
-* Another source that the authors can check out is https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1595019.
+* Another source that the authors can check out is [cbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1595019).
 * The authots expalined everything that needed to be explained.
 
 ### Objective: Quality
@@ -47,7 +47,7 @@
 
 * 5
 * The authors did site all sources, whether the data came from a previous report or study.
-* Another source that the authors can check out is https://www.marketplace.org/2019/12/10/corporate-americas-diversity-and-inclusion-falls-short-for-black-employees/.
+* Another source that the authors can check out is [marketplace.org](https://www.marketplace.org/2019/12/10/corporate-americas-diversity-and-inclusion-falls-short-for-black-employees/).
 * The authots expalined everything that needed to be explained.
 
 ### Objective: Quality
