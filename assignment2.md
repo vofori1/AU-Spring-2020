@@ -8,6 +8,6 @@
 * What areas are they specifically located in?
 * What is the student enrollment population since 2016 in each school?
 
-### To collect this data, I researched the yearly tuition change since 2016 of the five-most expensive priavte schools (K-12) in California. I recieved data from the schools official admission websites. Estimations of my findings are below:
+### To collect this data, I researched the yearly tuition change since 2016 of the five-most expensive priavte schools (K-12) in California. I recieved this data from each schools official admission websites. Estimations of my findings are below:
 
  ### [Google Sheet](https://docs.google.com/spreadsheets/d/1_VOBWkt68C9z5hIa5MsjzcnNljIqvkvbQR1er3Bsn7Y/edit?usp=sharing)
