@@ -17,10 +17,10 @@
 ### Steps to clean up data set
 
 1. Copied data set into a new tab
-2. Pressed 'ctrl + A' to highlight entire data set and then pressed pivot table in the insert tab.
+2. Pressed 'ctrl + A' to highlight entire data set and then pressed pivot table in the insert tab
 3. Selected 'create a new worksheet'
 3. Dragged 'offense text' into row rabels, 'shift' into column labels, and 'count of offense' into value
-4. Analyzed the data in my created pivot table.
+4. Analyzed the data in my created pivot table
 
 ### Headline: Consider Parking Your Car Outside of Georgetown University Campus to Prevent Thieves
 
