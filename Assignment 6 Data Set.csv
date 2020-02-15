@@ -1,0 +1,8 @@
+Count of offensegroup,Column Labels,,,
+Row Labels,day,evening,midnight,Grand Total
+burglary,2,,,2
+motor vehicle theft,,1,,1
+robbery,1,,,1
+theft f/auto,4,8,2,14
+theft/other,2,3,,5
+Grand Total,9,12,2,23
