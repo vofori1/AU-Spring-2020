@@ -24,4 +24,4 @@
 
 ### Headline: Consider Parking Your Car Outside of Georgetown University Campus to Prevent Thieves
 
-### Nutgraf: 14 police reports of stolen items within cars happened at Georgetown Univeristy in the New Year.
+### Nutgraf: 14 police reports of stolen items within cars happened at Georgetown Univeristy in the New Year. Here's what police are saying.
