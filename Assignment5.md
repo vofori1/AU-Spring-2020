@@ -8,4 +8,4 @@
 
 ### Some data sources I plan to use are 2019 studies and reports from the CDC and the American College of Obstetricians and Gynecologists.
 
-### The elements of the data that will be good candiates to visualize will be the amount (statistics) of black women that died from preganancy related complications the most in a region and the various reasons for these deaths in the regions compared to the larger U.S. landscape.
+### The elements of the data that will be good candiates to visualize will be the amount (statistics) of black women that died from preganancy related complications the most in a region and the various reasons for these deaths in the region compared to the larger U.S. landscape.
